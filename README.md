@@ -18,12 +18,6 @@ python .\index_manifest_tars.py `
   --poll-sleep-sec 60
 ```
 
-todo
-
-## Требования
-
-todo
-
 ---
 
 ##  Сущность в бд
